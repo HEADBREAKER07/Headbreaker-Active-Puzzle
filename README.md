@@ -1,5 +1,3 @@
-https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1/HeadbreakerCN.apk
-sha256:9e1bdb83f88ac6cbeace84dcacb470bdf4b6df79213b5f48e98cab9cd97dd096
 # Headbreaker-Active-Puzzle
 HEADBREAKER: Mind Skills, Reflexes, and Motor Coordination. Destreza, Reflejos y Coordinación Mental. 脑力技巧、反应与运动协调。दिमागी कौशल, प्रतिक्रिया और मोटर समन्वय।.
 # 🌍 Headbreaker Multi-Language Mobile Application
@@ -30,6 +28,9 @@ To successfully install the APK file downloaded via a web browser (Chrome, Firef
 
 ---
 (English)
+
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1/HeadbreakerCN.apk
+
 HEADBREAKER is an Active Puzzle designed to provide maximum fun while testing your concentration under pressure.
 
 🎯 Game Objective
