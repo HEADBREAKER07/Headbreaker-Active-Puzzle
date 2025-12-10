@@ -20,8 +20,11 @@ HeadbreakerHI.exe (HI)Hindi language version.
 ⚠️ Security Warning: Unsigned ExecutablesThese application files are not digitally signed with a verified certificate (such as a Windows Authenticode signature).
 
 Due to the lack of a certificate, your operating system (Windows Defender or other antivirus software) will likely trigger a security warning, often presenting a message like "Windows protected your PC" or flagging the file as potentially dangerous.
-To proceed with the installation: Acknowledge the Warning: When prompted by the security warning, you must click on "More info" or a similar option. 
+
+To proceed with the installation: Acknowledge the Warning: When prompted by the security warning, you must click on "More info" or a similar option.
+
 Run Anyway: Select the "Run anyway" button to bypass the warning and launch the installer.
+
 Compatibility: These files are intended for Windows 7, 8, 10, and 11 (64-bit) systems.
 
 
