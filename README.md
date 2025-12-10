@@ -1,5 +1,26 @@
 # Headbreaker-Active-Puzzle
 HEADBREAKER: Mind Skills, Reflexes, and Motor Coordination. Destreza, Reflejos y Coordinación Mental. 脑力技巧、反应与运动协调。दिमागी कौशल, प्रतिक्रिया और मोटर समन्वय।.
+
+# 💻 Headbreaker Multi-Language Desktop ApplicationThis repository offers direct download access to the official Headbreaker application for Windows desktop environments.
+
+📥 Download and InstallationThe application is distributed as individual executable files (.exe). 
+
+Please select the file corresponding to your preferred language:
+File NameLanguageDescription
+HeadbreakerEN.exe  (EN)Main version in English.
+HeadbreakerES.exe (ES)Spanish language version.
+HeadbreakerCN.exe (CN)Chinese language version.
+HeadbreakerHI.exe (HI)Hindi language version.
+
+⚠️ Security Warning: Unsigned ExecutablesThese application files are not digitally signed with a verified certificate (such as a Windows Authenticode signature).
+
+Due to the lack of a certificate, your operating system (Windows Defender or other antivirus software) will likely trigger a security warning, often presenting a message like "Windows protected your PC" or flagging the file as potentially dangerous.
+To proceed with the installation: Acknowledge the Warning: When prompted by the security warning, you must click on "More info" or a similar option. 
+Run Anyway: Select the "Run anyway" button to bypass the warning and launch the installer.
+Compatibility: These files are intended for Windows 7, 8, 10, and 11 (64-bit) systems.
+
+
+
 # 🌍 Headbreaker Multi-Language Mobile Application
 
 This repository provides direct download access to the official Headbreaker application for Android devices.
@@ -20,9 +41,7 @@ Please select the corresponding APK file for your preferred language from the li
 ## ⚠️ Important Installation Note (Sideloading)
 
 As these files are downloaded directly and are not sourced from the official Google Play Store, your Android device will treat them as coming from an **"Unknown Source"**.
-
 To successfully install the APK file downloaded via a web browser (Chrome, Firefox, etc.):
-
 1.  **Grant Permission:** You must temporarily **enable the "Install unknown apps"** setting for your specific browser (or globally, depending on your Android version) in your device's Security settings.
 2.  **Compatibility:** This application is compiled for devices running **Android 7.0 (Nougat, API 24) or higher** (if this is the case for your app, otherwise adjust this note).
 
