@@ -27,6 +27,13 @@ Run Anyway: Select the "Run anyway" button to bypass the warning and launch the 
 
 Compatibility: These files are intended for Windows 7, 8, 10, and 11 (64-bit) systems.
 
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerEN.exe
+
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerES.exe
+
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerCN.exe
+
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerHI.exe
 
 
 # 🌍 Headbreaker Multi-Language Mobile Application
