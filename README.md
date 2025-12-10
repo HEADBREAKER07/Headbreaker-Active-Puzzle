@@ -6,11 +6,15 @@ HEADBREAKER: Mind Skills, Reflexes, and Motor Coordination. Destreza, Reflejos y
 📥 Download and InstallationThe application is distributed as individual executable files (.exe). 
 
 Please select the file corresponding to your preferred language:
+
 File Name Language Description
 
 HeadbreakerEN.exe  (EN)Main version in English.
+
 HeadbreakerES.exe (ES)Spanish language version.
+
 HeadbreakerCN.exe (CN)Chinese language version.
+
 HeadbreakerHI.exe (HI)Hindi language version.
 
 ⚠️ Security Warning: Unsigned ExecutablesThese application files are not digitally signed with a verified certificate (such as a Windows Authenticode signature).
