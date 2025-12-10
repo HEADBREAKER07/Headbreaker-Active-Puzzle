@@ -29,7 +29,7 @@ To successfully install the APK file downloaded via a web browser (Chrome, Firef
 ---
 (English)
 
-https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1/HeadbreakerCN.apk
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1/HeadbreakerEN.apk
 
 HEADBREAKER is an Active Puzzle designed to provide maximum fun while testing your concentration under pressure.
 
@@ -63,6 +63,9 @@ Do you dare to complete all the levels? If you prove your motor coordination and
 Download HEADBREAKER and prove that you are capable of mastering this mental and reflex challenge!
 
 (Español)
+
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1/HeadbreakerES.apk
+
 HEADBREAKER es un Active Puzzle diseñado para ofrecer la máxima diversión mientras pones a prueba tu concentración bajo presión.
 
 🎯 Objetivo del Juego
@@ -95,6 +98,9 @@ Un Ralent adicional
 ¡Descarga HEADBREAKER y demuestra que eres capaz de superar este desafío mental y de reflejos!
 
 (中文)
+
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1/HeadbreakerCN.apk
+
 HEADBREAKER 是一款动态益智游戏，旨在压力下测试你的专注力，同时带来极致乐趣。
 
 🎯 游戏目标
@@ -127,6 +133,9 @@ HEADBREAKER 是一款动态益智游戏，旨在压力下测试你的专注力�
 立即下载 HEADBREAKER，证明你能够驾驭这场心智与反应力的挑战！
 
 (हिंदी भाषा)
+
+https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1/HeadbreakerHI.apk
+
 HEADBREAKER एक एक्टिव पज़ल गेम है जो दबाव में आपकी एकाग्रता की परीक्षा लेते हुए अधिकतम मज़ा प्रदान करने के लिए डिज़ाइन किया गया है।
 
 🎯 गेम का उद्देश्य
