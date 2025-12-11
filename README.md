@@ -13,19 +13,19 @@ File Name Language Description
 
 HeadbreakerEN.exe  (EN)Main version in English.
 
-https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerEN.exe
+
 
 HeadbreakerES.exe (ES)Spanish language version.
 
-https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerES.exe
+
 
 HeadbreakerCN.exe (CN)Chinese language version.
 
-https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerCN.exe
+
 
 HeadbreakerHI.exe (HI)Hindi language version.
 
-https://github.com/HEADBREAKER07/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerHI.exe
+
 
 ⚠️ Security Warning: Unsigned ExecutablesThese application files are not digitally signed with a verified certificate (such as a Windows Authenticode signature).
 
