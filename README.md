@@ -11,7 +11,7 @@ Please select the file corresponding to your preferred language:
 
 File Name Language Description
 
-HeadbreakerEN.exe  (EN)Main version in English.
+Headbreaker.exe  (EN)Main version in English.
 
 https://github.com/Headbreaker-AppsDev/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/Headbreaker.exe
 
