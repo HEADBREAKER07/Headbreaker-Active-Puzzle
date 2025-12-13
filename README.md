@@ -13,7 +13,7 @@ File Name Language Description
 
 HeadbreakerEN.exe  (EN)Main version in English.
 
-https://github.com/Headbreaker-AppsDev/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/HeadbreakerEN.exe
+https://github.com/Headbreaker-AppsDev/Headbreaker-Active-Puzzle/releases/download/v1.0.1e/Headbreaker.exe
 
 HeadbreakerES.exe (ES)Spanish language version.
 
